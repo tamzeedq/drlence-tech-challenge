@@ -1,0 +1,43 @@
+Tamzeed Quazi
+Vancouver, Canada | tamzeed.q@gmail.com | 778-512-0720 | LinkedIn | GitHub | Website
+Education
+
+University of British Columbia	Sep 2021 - May 2026
+BSc. Combined Major in Computer Science and Statistics	Dean's List
+Experience
+Software Engineer Intern	May 2025 - Aug 2025
+Mastercard	Vancouver, British Columbia
+Proposed and built a POC for a data quality service using AWS Redshift, Java, and Next.js, improving data visibility and machine learning research; featured in quarterly engineering highlights
+Finalist in internal hackathon for developing a tailored admin/applicant portal for Venture for Canada
+Evaluated metrics frameworks on a parser Java library, reported performance overhead for observability benefits
+Software Developer Co-op	Jan 2023 - Aug 2023
+Tetra Tech	Vancouver, British Columbia
+Addressed lack of real-time hazard monitoring by implementing full-stack alert system in Python and Next.js, reducing incident response time by 80% and received the 2025 ACEC-BC Award of Excellence
+Led deployment and scaling of a web application to 1000+ users using Azure VM and Azure Blob Storage
+Developed an automated file synchronization script between Azure services using React and Python, reducing 45 minutes of daily manual work
+Optimized PostgreSQL database performance by implementing PostGIS, resulting in 30% faster query times
+Architected a data pipeline for a PyTorch computer vision model, reducing original preprocessing times by 90%
+Club Experience
+Strategy Software Developer	Sep 2023 - Jan 2025
+UBC Solar (Design Team)	Vancouver, British Columbia
+Created genetic algorithms with Python for race speed optimization, which contributed to our team's highest-ever placement at the Formula Sun Grand Prix 2024
+Built cross-platform desktop application using Electron and React for race data and simulation visualization
+Projects
+StyleSense | TypeScript, Rust ,9
+Built a real-time code style enforcer for VSCode with customizable style rules with multilingual support
+Created the extension with TypeScript and used Rust to create a language server with tree-sitter parsing
+Breathe App (Hackathon) | React, TypeScript, Python, Flask, C++ ,9
+Built full-stack air quality application with React and Flask, integrating real-time sensor data
+Implemented websocket communication between C++ sensor interface and Python backend
+Track My Form | TensorFlow, React, TypeScript ,9
+Implemented TensorFlow pose estimation model for real-time movement analysis and exercise form feedback
+Developed trackers with React for exercise repetition counting and form assessment using AI output landmarks
+Hoppon Bot | Python, AWS EC2, Docker ,9
+Created a Discord bot with Python, containerized with Docker and deployed on AWS EC2
+Implemented music streaming functionality using Spotify and YouTube APIs with automated queue system
+Skills
+
+Languages: Java, Python, JavaScript, TypeScript, C++, C, Rust, SQL, Erlang
+Full-Stack Development: React, React Native, Next.js, Node.js, Express.js, Flask
+Databases & Cloud: PostgreSQL, Firebase, AWS EC2/Redshift, Azure Blob/PostgreSQL/VM
+DevOps & Testing: Git, Docker, Jenkins, Gradle, Linux, Postman, JUnit, Mocha, Chai

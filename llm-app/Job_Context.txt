@@ -1,0 +1,42 @@
+Software Development using Machine Learning, Generative AI and Advanced Computational Methods at UBC
+Senior-level UBC students with prior coursework or projects in Machine Learning are invited to apply. Responsibilities include improving failure prediction ML code, implementing Python JAX techniques, troubleshooting Graph CNN on large datasets, leveraging GPU computation, and incorporating Generative AI for spatio-temporal predictions. Flexible hours, quarter- to half-time.
+Apply / Contact: lence@civil.ubc.ca
+
+Dear Tamzeed,
+
+Thank you for your kind reply and for your continued interest in working with us.  
+ 
+In advance of interviewing students, the project team has created a small tech challenge for you, and asks that you complete it by 5 pm PST, Monday, October 20.  
+
+Please provide a 1-3 page summary of your outcomes, and attach this and related materials in one email with a heading: 
+
+Software Development Using Machine Learning and Generative AI: Tech Challenge
+
+Please: 
+
+Create a simple React "Hello World" app using the latest React guidelines for new apps.
+Create a simple Streamlit app using the latest guidelines and run an existing machine learning model (your choice) using the Run button in the app.
+Bonus task: Create an app that uses an LLM API (any LLM of your choice).
+Bonus task: Document how you used Vibe coding (if you did) in tasks 1 to 3.
+The team estimates your effort in minutes to be: 
+
+15
+30
+30
+15
+ 
+Sincerely,
+
+ Dr. Lence
+
+Barbara Lence, PhD
+
+Professor
+
+Department of Civil Engineering
+
+2012 Civil Engineering and Mechanical Engineering Building
+
+The University of British Columbia | Faculty of Applied Science
+
+6250 Applied Science Lane | Vancouver, BC V2T 1Z4
