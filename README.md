@@ -75,5 +75,5 @@ streamlit run app.py
 ```
 
 ### Task 4. Document Vibe Coding
-I didn't vibe code for the challenges but I did use Claude to help tasks 2 and 3. For task 2, it helped me with some issues I was having with PyTorch and setting up the YOLO model. For task 3, it helped me with rendering the sequence of messages for the chat.
+I didn't vibe code for the challenges, but I did use Claude to help with tasks 2 and 3. For task 2, it helped me with some issues I was having with PyTorch and setting up the YOLO model. For task 3, it helped me with rendering the sequence of messages for the chat.
 
