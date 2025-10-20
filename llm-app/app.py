@@ -28,11 +28,11 @@ st.markdown("---")
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "resume" not in st.session_state:
-    with open("Tamzeed_Quazi_Resume.txt", "r") as f:
+    with open("model_context/Tamzeed_Quazi_Resume.txt", "r") as f:
         st.session_state.resume = f.read()
 
 if "job_context" not in st.session_state:
-    with open("Job_Context.txt", "r") as f:
+    with open("model_context/Job_Context.txt", "r") as f:
         st.session_state.job_context = f.read()
 if "initial_pitch_shown" not in st.session_state:
     st.session_state.initial_pitch_shown = False
