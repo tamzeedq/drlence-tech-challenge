@@ -4,4 +4,6 @@ torchvision
 pillow
 pandas
 opencv-python
-
+ultralytics
+seaborn
+urllib3>=2.5.0

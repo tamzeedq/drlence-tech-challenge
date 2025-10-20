@@ -12,8 +12,7 @@ This repository contains my submission for the Tech Challenge, featuring three a
 ### Python Dependencies
 See individual `requirements.txt` files in each Python project folder.
 
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 drlence-tech-challenge/
@@ -33,7 +32,7 @@ A simple React Hello World application built using the latest React guidelines a
 ```bash
 cd hello-world-react
 npm install
-npm start
+npm run dev
 ```
 
 ### Task 2. Streamlit ML App (`streamlit-app/`)
@@ -46,13 +45,14 @@ cd streamlit-app
 pip install -r requirements.txt
 ```
 
-> Note: install PyTorch according to your system specs from here [Download PyTorch](https://pytorch.org/get-started/locally/). For reference, I'm using CUDA 12.6
+> Note: Install PyTorch according to your system specs from here [Download PyTorch](https://pytorch.org/get-started/locally/). For reference, I'm using CUDA 12.6.
 
 
 **To run:**
 ```bash
 streamlit run app.py
 ```
+A test image of a cluttered desk is included under the `test-image` directory as a sample input.
 
 ### Task 3. LLM App (`llm-app/`)
 

@@ -13,12 +13,20 @@ st.write("""
 
 @st.cache_resource
 def load_model():
-    return torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
+    model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
+
+    if torch.cuda.is_available():
+        model = model.cuda()
+    
+    return model
 
 with st.spinner("Loading YOLOv5 model..."):
     model = load_model()
 
-st.success("Model loaded!")
+if torch.cuda.is_available():
+    st.success("Model loaded, using CUDA!", icon="✅")
+else:
+    st.success("Model loaded, using CPU!", icon="✅")
 
 uploaded_file = st.file_uploader("Upload an image", type=['jpg', 'jpeg', 'png'])
 
